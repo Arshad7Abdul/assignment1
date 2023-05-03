@@ -4,41 +4,73 @@
 <head>
 
     <title>STUDENT REGISTRATION FORM</title>
-    <link rel="stylesheet" href="FileName.css">
+    <link rel="stylesheet" href="~/css/FileName.css">
+    
+    <!--link rel="stylesheet" href="harry.css"-->
+    <!--<script src="harry.js"> </script>-->
    
 </head>
 
 <body>
+    <a href="https://www.pacificconsultancyservices.com/" target="_blank"><strong>PACIFIC CONSULTANCY</strong></a>
 
     <div class="mHeading">
         <h1>STUDENT REGISTRATION FORM</h1>
     </div>
-    <div class=" sHeading"> <h4>PLEASE FILL ALL THE DETAILS</h4></div>
-    <div class="form">
-        <form action="backend.php">
+    <div class=" sHeading"> <h6>PLEASE FILL ALL THE DETAILS</h6></div>
+    <div class="form" style="border:8px solid red; color:green; ">
+        <form action="AssignmentOne.php">
             <div>
-                FIRSTNAME:<input type="text" name="fName" id="fname" />
+                <label for="fname">First Name:</label>
+                <input type="text" name="fName" id="fname" />
             </div>
-            <br />
+            <br>
             <div>
-                LASTNAME:<input type="text" name="lName" id="lname" />
+            <label for="lname">Last Name:</label>
+                <input type="text" name="lName" id="lname" />
             </div><br />
             <div>
-                ADDRESS:<input type="text" name="myAdd" id="myadd" /> <br />  &nbsp;&nbsp;&nbsp;&nbsp;
+                <label for="myadd">Address:</label>
+                <input type="text" name="myAdd" id="myadd" /> <br />  &nbsp;&nbsp;&nbsp;&nbsp;
 
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="myAdd" id="myadd" />
             </div><br />
             <div>
-                EMAIL:<input type="email" name="myEmail" id="myemail" />
+                <label for="myemail">Email:</label>
+                
+                <input type="email" name="myEmail" id="myemail" />
             </div><br />
             <div>
-                Phone No:<input type="number" name="myPhone" id="myphone" />
+                <label for="myphone">Phone No:</label>
+                <input type="number" name="myPhone" id="myphone" />
             </div><br />
             <div>
-                Gender:Male<input type="radio" name="myGender" />
-                Female<input type="radio" name="myGender" />
-                Others<input type="radio" name="myGender" />
+                Gender:Male<input type="radio" name="myGender"id="myGender" />
+                Female<input type="radio" name="myGender" id="myGender" />
+                Others<input type="radio" name="myGender" id="myGender" />
             </div>
+            <br>
+          
+            <div>
+            <label for="mytech">Technology</label>
+                <select name="myTech"id="mytech">
+                    <option value=".net" selected>.NET </option>
+                    <option value="java">JAVA</option>
+                    <option value="devops">DEVOPS/AWS</option>
+                    <option value="netw">NETWORKING</option>
+                </select>
+                
+            </div>
+            <br >
+            <div>
+                Available Date:<input type="datetime-local" name="myDate" />
+            </div>
+            <br >
+            <div>
+                Terms&Cond:<input type="checkbox" name="myCheck"id=" mycheck" checked/>
+            </div>
+            <br>
+
             <div>
                 <input type="submit" value="SUBMIT"/>
                 <inpuT type="reset" value="RESET" />
