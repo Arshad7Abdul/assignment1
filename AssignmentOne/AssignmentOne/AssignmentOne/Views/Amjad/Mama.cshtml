@@ -17,9 +17,9 @@
     <div class="mHeading">
         <h1>STUDENT REGISTRATION FORM</h1>
     </div>
-    <div class=" sHeading"> <h6>PLEASE FILL ALL THE DETAILS</h6></div>
+    <div class=" sHeading"> <h6 style="color:red;">PLEASE FILL ALL THE DETAILS</h6></div>
     <div class="form" style="border:8px solid red; color:green; ">
-        <form action="AssignmentOne.php">
+        <form action="/Amjad/SubmitData1" method="post">
             <div>
                 <label for="fname">First Name:</label>
                 <input type="text" name="fName" id="fname" />
@@ -63,11 +63,11 @@
             </div>
             <br >
             <div>
-                Available Date:<input type="datetime-local" name="myDate" />
+                Available Date:<input type="datetime-local" name="mySubmitDate" />
             </div>
             <br >
             <div>
-                Terms&Cond:<input type="checkbox" name="myCheck"id=" mycheck" checked/>
+                Terms&Cond:<input type="checkbox" name="myTermsCheck"id=" mycheck" checked/>
             </div>
             <br>
 
@@ -79,5 +79,8 @@
 
         </form>
     </div>
+    <footer>
+        © Copyright Pacific Consultancy Services. All Rights Reserved
+    </footer>
 </body>
 </html>

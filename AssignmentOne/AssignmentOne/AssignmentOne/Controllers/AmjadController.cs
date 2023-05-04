@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AssignmentOne.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AssignmentOne.Controllers
@@ -6,18 +7,27 @@ namespace AssignmentOne.Controllers
     public class AmjadController : Controller
     {
         // GET: AmjadController
-        public ActionResult Index()
-        {
-            return View();
-        }
 
+       
         public ActionResult Mama()
         {
             return View();
         }
+       
+        [HttpPost]
+        public ActionResult SubmitData1(Studentdata dataStudent)
+        {
+            // Do something with the form data, for example:
+            // Save the student to a database, send an email notification, etc.
+            // ...
 
+            // Return a response to the user, for example:
+            return Content($"Thank you, {dataStudent.fName} {dataStudent.lName} {dataStudent.myEmail}{dataStudent.myPhone}, for submitting your information.");
+        }
+    
 
-        // GET: AmjadController/Details/5
+        
+    // GET: AmjadController/Details/5
         public ActionResult Details(int id)
         {
             return View();
