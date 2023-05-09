@@ -1,0 +1,18 @@
+﻿@model Student
+
+<form method="post">
+    <div>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" value="@Model.name" />
+    </div>
+    <div>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" value="@Model.email" />
+    </div>
+    <div>
+        <label for="phone">Phone:</label>
+        <input type="tel" id="phone" name="phone" value="@Model.phone" />
+    </div>
+    <input type="hidden" id="id" name="id" value="@Model.Id" />
+    <button type="submit">Save</button>
+</form>
