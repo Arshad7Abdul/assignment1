@@ -4,7 +4,7 @@
 <head>
 
     <title title="This is the form">STUDENT REGISTRATION FORM</title>
-    <!--<link rel="stylesheet" href="~/css/FileName.css"> -->
+    <link rel="stylesheet" href="~/css/FileName.css" />
     <style>
         body,.form {
             box-sizing: border-box;
@@ -29,6 +29,31 @@
             color:saddlebrown;
             background-color:blueviolet;
         }
+
+        .tacbox {
+            display: block;
+            padding: 1em;
+            margin: 2em;
+            border: 3px solid #ddd;
+            background-color: #eee;
+            max-width: 800px;
+        }
+
+        /*input {
+            height: 2em;
+            width: 2em;
+            vertical-align: middle;
+        }
+        
+        label {
+          outline: 2px dotted #f00;
+        }
+
+        /*
+        label:after {
+          content: attr(for);
+        }*/
+
         
 
     </style>
@@ -74,9 +99,9 @@
                 <input type="tel" name="myPhone" id="myphone" />
             </div><br />
             <div>
-                Gender:Male<input type="radio" name="myGender"id="myGender" />
-                Female<input type="radio" name="myGender" id="myGender" />
-                Others<input type="radio" name="myGender" id="myGender" />
+                Gender:  Male  <input type="radio" name="myGender" id="myGender" value="Male" />
+                Female   <input type="radio" name="myGender" id="myGender" value="Female" />
+                Others   <input type="radio" name="myGender" id="myGender" value="Others" />
             </div>
             <br>
           
@@ -96,20 +121,23 @@
             </div>
             <br >
             <div>
-                Terms&Cond:<input type="checkbox" name="myTermsCheck"id=" mycheck" checked/>
+                <input id="checkbox" type="checkbox" />
+                <label for="checkbox"> I agree to these <a href="https://www.pacificconsultancyservices.com/">Terms and Conditions</a>.</label>
             </div>
             <br>
 
             <div>
                 <input type="submit" value="SUBMIT"/>
-                <inpuT type="reset" value="RESET" />
+                <input type="reset" value="RESET" />
             </div>
 
             <br>
         </form>
+        
     </div>
     <footer style="text-align:start">
         © Copyright Pacific Consultancy Services. All Rights Reserved
     </footer>
+
 </body>
 </html>
