@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qV7lMW8VceLePMDUfd4bBbjmXuK5XSIUQN13AVcsr4TrM9gBDvuZPyWfVVbB9CWjIyw6C59Vx5J6gif8JRe0Nw==",
+  "dgSpecHash": "+HUH9TfRJOjuaHRvJYhHvcdL7tif54jlK3AHuVnyCG9N24tubpC0XNnfgdC9YOIpKrNMQH9ZrofbsWFjE7N/5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amjad\\OneDrive\\Documents\\assignment1\\AssignmentOne\\AssignmentOne\\AssignmentOne\\AssignmentOne.csproj",
+  "projectFilePath": "C:\\Users\\amjad\\Source\\Repos\\assignment3\\AssignmentOne\\AssignmentOne\\AssignmentOne\\AssignmentOne.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amjad\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\amjad\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
@@ -157,7 +157,11 @@
     "C:\\Users\\amjad\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\amjad\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\amjad\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\amjad\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\amjad\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\amjad\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\amjad\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\amjad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\amjad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
   ],
   "logs": []
 }

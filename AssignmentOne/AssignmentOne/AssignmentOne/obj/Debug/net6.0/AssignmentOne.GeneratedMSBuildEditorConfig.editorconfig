@@ -9,77 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AssignmentOne
 build_property.RootNamespace = AssignmentOne
-build_property.ProjectDir = C:\Users\amjad\OneDrive\Documents\assignment1\AssignmentOne\AssignmentOne\AssignmentOne\
+build_property.ProjectDir = C:\Users\amjad\Source\Repos\assignment3\AssignmentOne\AssignmentOne\AssignmentOne\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\amjad\OneDrive\Documents\assignment1\AssignmentOne\AssignmentOne\AssignmentOne
+build_property.MSBuildProjectDirectory = C:\Users\amjad\Source\Repos\assignment3\AssignmentOne\AssignmentOne\AssignmentOne
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/amjad/OneDrive/Documents/assignment1/AssignmentOne/AssignmentOne/AssignmentOne/Views/Amjad/Index.cshtml]
+[C:/Users/amjad/Source/Repos/assignment3/AssignmentOne/AssignmentOne/AssignmentOne/Views/Amjad/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW1qYWRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amjad/OneDrive/Documents/assignment1/AssignmentOne/AssignmentOne/AssignmentOne/Views/Amjad/Mama.cshtml]
+[C:/Users/amjad/Source/Repos/assignment3/AssignmentOne/AssignmentOne/AssignmentOne/Views/Amjad/Mama.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW1qYWRcTWFtYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amjad/OneDrive/Documents/assignment1/AssignmentOne/AssignmentOne/AssignmentOne/Views/app/board.cshtml]
+[C:/Users/amjad/Source/Repos/assignment3/AssignmentOne/AssignmentOne/AssignmentOne/Views/app/board.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXBwXGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amjad/OneDrive/Documents/assignment1/AssignmentOne/AssignmentOne/AssignmentOne/Views/Home/Index.cshtml]
+[C:/Users/amjad/Source/Repos/assignment3/AssignmentOne/AssignmentOne/AssignmentOne/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amjad/OneDrive/Documents/assignment1/AssignmentOne/AssignmentOne/AssignmentOne/Views/Home/Privacy.cshtml]
+[C:/Users/amjad/Source/Repos/assignment3/AssignmentOne/AssignmentOne/AssignmentOne/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amjad/OneDrive/Documents/assignment1/AssignmentOne/AssignmentOne/AssignmentOne/Views/Muzammil/Khairu.cshtml]
+[C:/Users/amjad/Source/Repos/assignment3/AssignmentOne/AssignmentOne/AssignmentOne/Views/Muzammil/Khairu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXV6YW1taWxcS2hhaXJ1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amjad/OneDrive/Documents/assignment1/AssignmentOne/AssignmentOne/AssignmentOne/Views/pact1/Pract1.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGFjdDFcUHJhY3QxLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/amjad/OneDrive/Documents/assignment1/AssignmentOne/AssignmentOne/AssignmentOne/Views/PractDisplay/DisplayPract.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhY3REaXNwbGF5XERpc3BsYXlQcmFjdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/amjad/OneDrive/Documents/assignment1/AssignmentOne/AssignmentOne/AssignmentOne/Views/Practice/Index22.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhY3RpY2VcSW5kZXgyMi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/amjad/OneDrive/Documents/assignment1/AssignmentOne/AssignmentOne/AssignmentOne/Views/Shared/Error.cshtml]
+[C:/Users/amjad/Source/Repos/assignment3/AssignmentOne/AssignmentOne/AssignmentOne/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amjad/OneDrive/Documents/assignment1/AssignmentOne/AssignmentOne/AssignmentOne/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/amjad/Source/Repos/assignment3/AssignmentOne/AssignmentOne/AssignmentOne/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amjad/OneDrive/Documents/assignment1/AssignmentOne/AssignmentOne/AssignmentOne/Views/Student/DisplayStudentData.cshtml]
+[C:/Users/amjad/Source/Repos/assignment3/AssignmentOne/AssignmentOne/AssignmentOne/Views/Student/DisplayStudentData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEaXNwbGF5U3R1ZGVudERhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amjad/OneDrive/Documents/assignment1/AssignmentOne/AssignmentOne/AssignmentOne/Views/Student/Edit.cshtml]
+[C:/Users/amjad/Source/Repos/assignment3/AssignmentOne/AssignmentOne/AssignmentOne/Views/Student/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amjad/OneDrive/Documents/assignment1/AssignmentOne/AssignmentOne/AssignmentOne/Views/Tuscaloosa/Tusca.cshtml]
+[C:/Users/amjad/Source/Repos/assignment3/AssignmentOne/AssignmentOne/AssignmentOne/Views/Tuscaloosa/Tusca.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVzY2Fsb29zYVxUdXNjYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amjad/OneDrive/Documents/assignment1/AssignmentOne/AssignmentOne/AssignmentOne/Views/_ViewImports.cshtml]
+[C:/Users/amjad/Source/Repos/assignment3/AssignmentOne/AssignmentOne/AssignmentOne/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amjad/OneDrive/Documents/assignment1/AssignmentOne/AssignmentOne/AssignmentOne/Views/_ViewStart.cshtml]
+[C:/Users/amjad/Source/Repos/assignment3/AssignmentOne/AssignmentOne/AssignmentOne/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/amjad/OneDrive/Documents/assignment1/AssignmentOne/AssignmentOne/AssignmentOne/Views/Shared/_Layout.cshtml]
+[C:/Users/amjad/Source/Repos/assignment3/AssignmentOne/AssignmentOne/AssignmentOne/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-o0eelupkjd
